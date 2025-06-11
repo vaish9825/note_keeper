@@ -1,6 +1,6 @@
 # Note Taking App
 
-A simple note-taking application built with React and Vite.
+A beautiful note-taking application built with React and Vite.
 
 ## Features
 - Create, view, and delete notes
@@ -20,14 +20,10 @@ A simple note-taking application built with React and Vite.
 2. Install dependencies:
    ```sh
    npm install
-   # or
-   yarn install
    ```
 3. Start the development server:
    ```sh
    npm run dev
-   # or
-   yarn dev
    ```
 4. Open your browser and go to `http://localhost:5173` (or the port shown in your terminal).
 
