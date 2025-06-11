@@ -47,6 +47,3 @@ src/
     Header.jsx
     Note.jsx
 ```
-
-## License
-MIT
