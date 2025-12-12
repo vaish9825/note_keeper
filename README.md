@@ -47,6 +47,21 @@ Before you begin, ensure you have the following installed:
    git clone [https://github.com/vaish9825/note_keeper.git](https://github.com/vaish9825/note_keeper.git)
 
 2.  **Navigate to the project directory:**
-   ```bash
-   cd note_keeper
+    ```bash
+    cd note_keeper
+
+3. **Install dependencies:**
+    ```bash
+    npm install
+
+4. **Start the development server:**
+    ```bash
+    npm run dev
+
+5. **Open your browser**: The terminal will show a local URL. Ctrl+Click it to view the app.
+
+
+
+
+
 
